@@ -1,0 +1,16 @@
+.feedbackBtn {
+  background-color: #c2dddc;
+  border: 1px solid #4da2a7;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-size: medium;
+  width: 100px;
+  margin-right: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.feedbackBtn:focus,
+.feedbackBtn:hover {
+  background-color: #4da2a7;
+}
